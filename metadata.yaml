@@ -1,0 +1,27 @@
+_repo: Religion-in-EarnestA-Memorial-of-Mrs.-Mary-Lyth-of-York_11923
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lyth, J. (John)
+    alias: Lyth, John
+    birthdate: 1821
+    deathdate: 1886
+    gutenberg_agent_id: '4134'
+    url: http://www.gutenberg.org/2009/agents/4134
+description: ''
+gutenberg_issued: '2004-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11923'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Lyth, Mary, 1782-1860'
+- !lcc 'BX'
+- GITenberg
+title: 'Religion in Earnest
+
+  A Memorial of Mrs. Mary Lyth, of York'
+url: http://www.gutenberg.org/ebooks/11923
